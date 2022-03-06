@@ -10,7 +10,6 @@
 
 <img src="https://c.tenor.com/JUM6g9MQaVoAAAAi/feline-new-computer.gif" width="100" height="100" />
 
-![Snake animation](https://github.com/kmlyteixeira/kmlyteixeira/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 kmlyteixeira/kmlyteixeira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
