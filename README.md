@@ -8,14 +8,13 @@
 🧠 Gosto de Estudar e Conversar sobre novas tecnologias   
 🐱 Mamãe da pequena Katara
 
-<img src="https://c.tenor.com/JUM6g9MQaVoAAAAi/feline-new-computer.gif" width="100" height="100" />
-
 <div>
 <a href="https://github.com/kmlyteixeira">
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmlyteixeira&layout=compact&langs_count=7&theme=dracula"/>
 <img height="120em" src="https://github-readme-stats.vercel.app/api?username=kmlyteixeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
- 
+ <img src="https://cdn.domestika.org/c_limit,dpr_auto,f_auto,q_auto,w_820/v1572821689/content-items/003/381/611/U4L1_TOTAL-original.gif?1572821689" width="100" height="100"/>
+
 #### ☕ Me chama para conversar!
 <div> 
 <a href="https://www.linkedin.com/in/kemily-teixeira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
