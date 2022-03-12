@@ -3,10 +3,18 @@
 ### Estudante de Análise e Desenvolvimento de Sistemas 👩🏻‍🎓
 
 🤍 Atualmente trabalho com Sustentação de Sistemas  
-🤍 Programadora Junior da Linguagem LSP  
+🤍 Programadora Junior na Linguagem LSP  
 👩‍💻 Aprendendo a trabalhar com SQL  
+<img height="20em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> Estudando a linguagem JAVA  
 🧠 Gosto de Estudar e Conversar sobre novas tecnologias   
 🐱 Mamãe da pequena Katara
+
+<div>
+<img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img height="35" src="https://acegif.com/wp-content/uploads/loading-11.gif"/>
+<div/>  
+ 
+####
 
 <div>
 <a href="https://github.com/kmlyteixeira">
@@ -21,7 +29,8 @@
 <a href="https://instagram.com/kemilyteixeiradr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:kemilyteixeira047@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
- 
+  
+
 <!---
 kmlyteixeira/kmlyteixeira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
