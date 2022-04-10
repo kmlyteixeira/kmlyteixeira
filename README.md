@@ -11,7 +11,7 @@
 
 <div>
 <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-<img height="35" src="https://acegif.com/wp-content/uploads/loading-11.gif"/>
+<img height="40em" src="https://www.code4source.com/static/media/java.898b7343.png"/>
 <div/>  
  
 ####
