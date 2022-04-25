@@ -6,8 +6,7 @@
 🤍 Programadora Junior na Linguagem LSP  
 👩‍💻 Aprendendo a trabalhar com SQL  
 <img height="20em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> Estudando a linguagem JAVA  
-🧠 Gosto de Estudar e Conversar sobre novas tecnologias   
-🐱 Mamãe da pequena Katara
+🧠 Gosto de aprender sobre novas tecnologias   
 
 <div>
 <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
