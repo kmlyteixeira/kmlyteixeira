@@ -1,9 +1,7 @@
 ## 🤍 Hi there! 👾
 
 ### Estudante de Análise e Desenvolvimento de Sistemas 👩🏻‍🎓
-
-🤍 Atualmente trabalho com Sustentação de Sistemas  
-🤍 Programadora Junior na Linguagem LSP  
+ 
 👩‍💻 Aprendendo a trabalhar com SQL  
 <img height="20em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> Estudando a linguagem JAVA  
 🧠 Gosto de aprender sobre novas tecnologias   
