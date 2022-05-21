@@ -2,9 +2,9 @@
 
 ### Estudante de Análise e Desenvolvimento de Sistemas 👩🏻‍🎓
  
-👩‍💻 Aprendendo a trabalhar com SQL
-👾 Praticando Lógica de Programação com C++ e Java
-<img height="20em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> Estudando a linguagem JAVA  
+👩‍💻 Aprendendo a trabalhar com SQL  
+👾 Praticando Lógica de Programação com C++ e LSP   
+<img height="20em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> Estudando a linguagem JAVA   
 🧠 Gosto de aprender sobre novas tecnologias   
 
 <div>
