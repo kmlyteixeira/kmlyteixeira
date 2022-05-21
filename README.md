@@ -14,6 +14,8 @@
  
 ####
 
+<a href = "https://www.freecodecamp.org/kmlyteixeira"><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" target="_blank"></a> 
+
 <div>
 <a href="https://github.com/kmlyteixeira">
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmlyteixeira&layout=compact&langs_count=7&theme=dracula"/>
