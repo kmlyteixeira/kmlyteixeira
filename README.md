@@ -24,8 +24,8 @@
  <img src="https://cdn.domestika.org/c_limit,dpr_auto,f_auto,q_auto,w_820/v1572821689/content-items/003/381/611/U4L1_TOTAL-original.gif?1572821689" width="100" height="100"/>
 
  
-#### ☕ 
-<div> 
+#### ☕ Reach me on
+<div>
 <a href="https://www.linkedin.com/in/kemily-teixeira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 <a href="https://instagram.com/kemilyteixeiradr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:kemilyteixeira047@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href = "https://www.freecodecamp.org/kmlyteixeira"><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" target="_blank"></a> 
