@@ -1,11 +1,6 @@
 ## 🤍 Hi there! 👾
 
 ### Estudante de Análise e Desenvolvimento de Sistemas 👩🏻‍🎓
- 
-👩‍💻 Experiência com Banco de Dados relacional SQL Server  
-👾 Praticando Lógica de Programação com C++ e LSP   
-<img height="20em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> Estudando a linguagem JAVA e os conceitos de POO  
-🧠 Gosto de aprender sobre novas tecnologias    
 
 <div>
 <img height="25em" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
