@@ -18,7 +18,7 @@
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmlyteixeira&layout=compact&langs_count=7&theme=dracula"/>
 <img height="120em" src="https://github-readme-stats.vercel.app/api?username=kmlyteixeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
- <img src="https://cdn.domestika.org/c_limit,dpr_auto,f_auto,q_auto,w_820/v1572821689/content-items/003/381/611/U4L1_TOTAL-original.gif?1572821689" width="100" height="100"/>
+ <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" width="100" height="100"/>
 
  
 #### ☕ Reach me on
