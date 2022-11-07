@@ -1,6 +1,6 @@
 ## 🤍 Hi there! 👾
 
-### Estudante de Análise e Desenvolvimento de Sistemas 👩🏻‍🎓
+### Systems Analyst & Development Student
 
 <div>
 <img height="25em" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
