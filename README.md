@@ -18,12 +18,6 @@ S K I L L S
  
 ####
 
-<div>
-<a href="https://github.com/kmlyteixeira">
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmlyteixeira&layout=compact&langs_count=7&theme=dracula"/>
-<img height="120em" src="https://github-readme-stats.vercel.app/api?username=kmlyteixeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
  <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHVrb3MwMDk0MDlqbnVuaGRhcDd3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" width="100" height="100"/>
  
 #### ☕ R E A C H  M E  O N
