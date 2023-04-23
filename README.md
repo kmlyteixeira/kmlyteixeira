@@ -1,6 +1,8 @@
 ## 🤍 Hi there! 👾
+### Welcome to my Github! Here you'll find a little bit of everything I like.
 
-### Development Student 
+#### :computer: Software Development Student
+
 [![Linkedin: kemily](https://img.shields.io/badge/-Kemily-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kmly-teixeira/)](https://www.linkedin.com/in/anmol098/)
 ![GitHub followers](https://img.shields.io/github/followers/kmlyteixeira?label=Follow&style=social)
 ---
