@@ -1,9 +1,9 @@
 ## 🤍 Hi there! 👾
 
 ### Development Student 
-
-***
-
+[![Linkedin: kemily](https://img.shields.io/badge/-Kemily-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kmly-teixeira/)](https://www.linkedin.com/in/anmol098/)
+![GitHub followers](https://img.shields.io/github/followers/kmlyteixeira?label=Follow&style=social)
+---
 > S K I L L S
 <div>
 <img height="25em" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -17,26 +17,14 @@
 <div/>  
  
 ####
- 
+> MY  G I T H U B  DATA
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/kmlyteixeira">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmlyteixeira&layout=compact&langs_count=7&theme=dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kmlyteixeira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
- 
-![Snake animation](https://github.com/kmlyteixeira/kmlyteixeira/blob/output/github-contribution-grid-snake.svg)
 
  <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHVrb3MwMDk0MDlqbnVuaGRhcDd3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" width="100" height="100"/>
- 
-***
- 
-#### ☕ R E A C H  M E  O N
-<div>
-<a href="https://www.linkedin.com/in/kemily-teixeira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-<a href="https://instagram.com/kemilyteixeiradr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:kemilyteixeira047@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href = "https://www.freecodecamp.org/kmlyteixeira"><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" target="_blank"></a> 
-</div>
-  
 
 <!---
 kmlyteixeira/kmlyteixeira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
