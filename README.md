@@ -1,6 +1,5 @@
-## 🤍 Hi there! 👾
-### Welcome to my Github! Here you'll find a little bit of everything I like.
-
+## Hi there!
+<!---
 #### :computer: Software Development Student
 
 [![Linkedin: kemily](https://img.shields.io/badge/-Kemily-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kmly-teixeira/)](https://www.linkedin.com/in/anmol098/)
@@ -28,7 +27,7 @@
 
  <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHVrb3MwMDk0MDlqbnVuaGRhcDd3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" width="100" height="100"/>
 
-<!---
+
 kmlyteixeira/kmlyteixeira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://github.com/Ileriayo/markdown-badges link for the markdown badges
 --->
